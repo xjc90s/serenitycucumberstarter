@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\starter",
+    "\\src\\test\\java\\starter\\stepdefinitions"
+  ],
+  "SelectedNode": "\\src\\test\\java\\starter\\stepdefinitions\\ParameterDefinitions.java",
+  "PreviewInSolutionExplorer": false
+}
